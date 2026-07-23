@@ -36,9 +36,9 @@
 | Claude | Opus 4.8 / Fable 5 |
 | Google | Gemini 3 Pro |
 | OpenAI | GPT-5.5 |
-| Cursor | Composer 2.5 |
+| Cursor | Composer 2.5 / Grok 4.5 |
 
-> 纯官转 · 模型保真 · 不降智  · 价格优惠
+>  模型保真 · 注册就送 · 价格优惠
 
 ---
 

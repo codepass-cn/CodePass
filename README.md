@@ -20,12 +20,12 @@
 
 [CodePass](https://ada.nz/r/7Wl) 帮国内开发者更稳地使用 Cursor：
 
-- **支付宝 / 微信直付**，不用海外卡
+- **支付宝**，不用海外卡
 - **Composer / Auto / Grok** 用量充足
 - **纯官转**，不降智、不偷换模型
 - **长期稳定**，按额度消耗，用多少扣多少
 
-👉 **注册直达**：[https://ada.nz/r/7Wl](https://ada.nz/r/7Wl)
+👉 **注册直达**：https://ada.nz/r/7Wl
 
 ---
 
@@ -38,13 +38,12 @@
 | OpenAI | GPT-5.5 |
 | Cursor | Composer 2.5 |
 
-> 纯官转 · 模型保真 · 不降智 · 不偷换 · 价格优惠
+> 纯官转 · 模型保真 · 不降智  · 价格优惠
 
 ---
 
 ## 为啥选 CodePass
 
-- 支付宝直付
 - 注册就送，价格比官方便宜，额度充足
 - 长期稳定，不封号
 - 按额度消耗，用多少扣多少
@@ -52,8 +51,7 @@
 
 ## Links
 
-- 注册 / 体验：[https://ada.nz/r/7Wl](https://ada.nz/r/7Wl)
-- 官网：[https://code-pass.dev](https://code-pass.dev)
+- 注册 / 体验：https://ada.nz/r/7Wl
 
 ---
 

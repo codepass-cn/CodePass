@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://ada.nz/r/7Wl"><img src="https://img.shields.io/badge/立即注册-体验直达-111111?style=for-the-badge" alt="立即注册" /></a>
-  <a href="https://code-pass.dev"><img src="https://img.shields.io/badge/官网-code--pass.dev-2563eb?style=for-the-badge" alt="官网" /></a>
+  <a href="https://ydy.ca/r/g6q"><img src="https://img.shields.io/badge/立即注册-体验直达-111111?style=for-the-badge" alt="立即注册" /></a>
+  <a href="https://ydy.ca/r/g6q"><img src="https://img.shields.io/badge/官网-code--pass.dev-2563eb?style=for-the-badge" alt="官网" /></a>
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 关键词：`Cursor` · `Cursor AI` · `Cursor Pro` · `Claude` · `GPT` · `Gemini` · `Composer` · `Alipay` · `国内额度`
 
-👉 [点这里注册 / Get started](https://ada.nz/r/7Wl) · [官网 code-pass.dev](https://code-pass.dev)
+👉 [点这里注册 / Get started](https://ydy.ca/r/g6q) 
 
 ---
 
@@ -49,17 +49,6 @@
 
 > 模型保真 · 注册就送 · 比官方便宜
 
----
-
-## 快速开始
-
-1. 打开注册页：[https://ada.nz/r/7Wl](https://ada.nz/r/7Wl)
-2. 支付宝 / 微信完成支付
-3. 在 Cursor 中登录使用 Claude / GPT / Gemini / Composer
-
-官网：[https://code-pass.dev](https://code-pass.dev)
-
----
 
 <p align="center">
   <a href="https://ada.nz/r/7Wl"><b>注册 / 体验 →</b></a>

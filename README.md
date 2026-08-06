@@ -51,8 +51,7 @@
 
 
 <p align="center">
-  <a href="https://ada.nz/r/7Wl"><b>注册 / 体验 →</b></a>
-  ·
+
   <a href="https://code-pass.dev">官网</a>
   ·
   <a href="https://github.com/codepass-cn/CodePass">Star 本仓库</a>
